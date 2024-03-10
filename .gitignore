@@ -1,0 +1,6 @@
+.DS_Store
+HelloWorldFunction.zip
+result.json
+.aws-sam
+.idea
+HelloWorldFunction/HelloWorld.iml
